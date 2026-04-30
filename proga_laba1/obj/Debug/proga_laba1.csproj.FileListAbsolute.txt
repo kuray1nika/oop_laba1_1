@@ -1,0 +1,7 @@
+C:\Users\comp\source\repos\proga_laba1\proga_laba1\obj\Debug\proga_laba1.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\proga_laba1\proga_laba1\obj\Debug\proga_laba1.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\proga_laba1\proga_laba1\bin\Debug\proga_laba1.exe.config
+C:\Users\comp\source\repos\proga_laba1\proga_laba1\bin\Debug\proga_laba1.exe
+C:\Users\comp\source\repos\proga_laba1\proga_laba1\bin\Debug\proga_laba1.pdb
+C:\Users\comp\source\repos\proga_laba1\proga_laba1\obj\Debug\proga_laba1.exe
+C:\Users\comp\source\repos\proga_laba1\proga_laba1\obj\Debug\proga_laba1.pdb
